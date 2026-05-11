@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZukSVCuK4DQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivonka\\Documents\\University\\Semester 8-2026\\Service Oriented Arch\\Smart Travel Planner API\\Smart Travel Planner API\\Smart Travel Planner API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivonka\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.13\\microsoft.aspnetcore.openapi.9.0.13.nupkg.sha512",
+    "C:\\Users\\Ivonka\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
